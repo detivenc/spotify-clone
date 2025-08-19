@@ -175,15 +175,6 @@ This project is ready for deployment on platforms like:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎯 Future Enhancements
-
-- [ ] User authentication
-- [ ] Personal playlist creation
-- [ ] Search functionality
-- [ ] Shuffle and repeat modes
-- [ ] Social sharing features
-- [ ] Offline playback support
-
 ---
 
 **Made with ❤️ and modern web technologies**
